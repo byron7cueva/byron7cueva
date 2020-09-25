@@ -2,7 +2,7 @@
 
 ### Connect me on Social Media
 
-[LinkedIn](https://ec.linkedin.com/in/byron7cueva) | [Twitter](https://twitter.com/byron7cueva)
+[LinkedIn](https://ec.linkedin.com/in/byron7cueva) | [Twitter](https://twitter.com/byron7cueva) | [Platzi](https://platzi.com/@byron7cueva/)
 
 ### Projects
 
