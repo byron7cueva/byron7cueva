@@ -1,4 +1,13 @@
-### Hi there 👋
+## Welcome to my GitHub Repo
+
+### Connect me on Social Media
+
+[LinkedIn](https://ec.linkedin.com/in/byron7cueva) | [Twitter](https://twitter.com/byron7cueva)
+
+### Projects
+
+- Dashboard COVID-19 Ecuador - [ec-covid19.herokuapp.com/](http://ec-covid19.herokuapp.com/)
+- My Web Site - [byron7cueva.github.io](https://byron7cueva.github.io/)
 
 <!--
 **byron7cueva/byron7cueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
