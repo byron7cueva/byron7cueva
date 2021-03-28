@@ -16,6 +16,10 @@
 
 [LinkedIn](https://ec.linkedin.com/in/byron7cueva) | [Platzi](https://platzi.com/@byron7cueva/)
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="byron7cueva Spotify Playing" width="350" />](https://open.spotify.com/user/byron7cueva)
+
 <!--
 **byron7cueva/byron7cueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
