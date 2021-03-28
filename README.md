@@ -18,7 +18,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="byron7cueva Spotify Playing" width="350" />](https://open.spotify.com/user/byron7cueva)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="byron7cueva Spotify Playing" width="350" />](https://open.spotify.com/playlist/5cTLM1a6CfH3Jo18FJhnKi)
 
 <!--
 **byron7cueva/byron7cueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
