@@ -4,6 +4,13 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            Stats                             |                          Languages                           |
 
+
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=byron7cueva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=byron7cueva&theme=redical">
+</p>  
+
 ### Projects
 
 - Dashboard COVID-19 Ecuador - [ec-covid19.herokuapp.com/](http://ec-covid19.herokuapp.com/)
