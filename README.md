@@ -4,7 +4,7 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            Stats                             |                          Languages                           |
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=byron7cueva&theme=dracula&area=true&hide_border=true&bg_color=#282a36">
+ <img src="https://activity-graph.herokuapp.com/graph?username=byron7cueva&theme=dracula&area=true&hide_border=true&bg_color=282a36">
 </p>  
 
 ### Projects
