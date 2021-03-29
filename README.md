@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Repo
 
-| <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=byron7cueva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byron7cueva&layout=compact&theme=dracula)|
+| <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=byron7cueva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byron7cueva&layout=compact&theme=dracula)|
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            Stats                             |                          Languages                           |
 <p align = "center">
