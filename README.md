@@ -1,10 +1,10 @@
 ## Welcome to my GitHub Repo
 
-| <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=byron7cueva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byron7cueva&layout=compact&theme=radical)|
+| <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=byron7cueva&show_icons=true&locale=en&layout=compact&theme=redical&line_height=0" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byron7cueva&layout=compact&theme=redical)|
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            Stats                             |                          Languages                           |
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=byron7cueva&theme=radical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=byron7cueva&theme=redical">
 </p>  
 
 ### Projects
