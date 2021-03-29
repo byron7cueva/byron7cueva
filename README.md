@@ -1,12 +1,8 @@
 ## Welcome to my GitHub Repo
 
-| ![Byron's github stats](https://github-readme-stats.vercel.app/api?username=byron7cueva&show_icons=true&hide_border=false&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byron7cueva&layout=compact&theme=dracula)|
+| <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=byron7cueva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byron7cueva&layout=compact&theme=dracula)|
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            Stats                             |                          Languages                           |
-
-
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=byron7cueva&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=byron7cueva&theme=redical">
 </p>  
