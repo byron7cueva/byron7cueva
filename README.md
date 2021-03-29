@@ -3,7 +3,7 @@
 | <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=byron7cueva&theme=dracula&hide_border=true)" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byron7cueva&layout=compact&theme=dracula&hide_border=true)|
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            Stats                             |                          Languages                           |
-
+![Metrics](https://github.com/byron7cueva/byron7cueva/blob/master/github-metrics.svg)
 <table>
   <td align="center">
     <img src="https://github.com/byron7cueva/byron7cueva/blob/master/metrics.plugin.habits.facts.svg">
